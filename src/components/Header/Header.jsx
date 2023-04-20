@@ -13,8 +13,8 @@ const Header = ({onLoad , onPlaceChanged}) =>{
         <AppBar position="static">
             <Toolbar className={classes.toolbar}>
                 <Typography variant="h5" className={classes.title}>
-                    <img className={classes.icon} src="./gps.png" alt="@"/>
-                    Stayfinder 
+                    
+                    TravelAdvisor
                 </Typography>
 
                 <Box display="flex">
